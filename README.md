@@ -9,3 +9,5 @@ http://machinisludo.blogspot.com/
 
 The full game can be played here:
 http://yitongtseo.github.io/Build
+
+We hope you like it! Have fun swinging around!
